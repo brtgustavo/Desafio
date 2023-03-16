@@ -1,0 +1,12 @@
+A - A sequência é baseada no número anterior + 2 logo o resultado será 7 + 2 = 9;
+----------------------------------------
+B - São números multiplicados por 2 então o último número será 64 * 2 = 128;
+----------------------------------------
+C - Para cada número que é somado mais números ímpares exemplo, começa com 0 então o próximo número 
+seria somado o próximo número ímpar no caso 1 ou seja 0 + 1 = e suas respectivas sequências 
+( 1 + 3 = 4 ), ( 4 + 5 = 9) ; ( 9 +7 = 16) ; ( 16 + 9 = 25) ; ( 25 + 11 = 36 ) 
+e finalmente (36 + 13 = 49 );
+----------------------------------------
+D - É uma sequência de números pares ao quadrado exemplo: 2², 4², 6², 8² e 10² sendo igual a 100.
+----------------------------------------
+E – Baseado na soma da sequência dos dois números anteriores sendo o próximo número 13 soma dos números 8 + 5.
